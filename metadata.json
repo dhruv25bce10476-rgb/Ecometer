@@ -1,0 +1,6 @@
+{
+  "name": "EcoMeter",
+  "description": "An interactive sustainability website that calculates your estimated ecological footprint in Earths and provides actionable advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
