@@ -1,5 +1,8 @@
 # EcoMeter
 
+
+**Live Website:** https://ecometer-cgfz.vercel.app/
+
 **How many Earths does your lifestyle need?**
 
 EcoMeter is an interactive sustainability web app that estimates your ecological footprint as a single, easy-to-grasp number: *"If everyone lived like you, how many Earths would humanity need?"* After a short quiz, it shows a breakdown of where your impact comes from and suggests practical habit changes, with a simulator that projects how much your footprint would shrink if you adopted them.
